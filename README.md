@@ -1,15 +1,15 @@
 # RTOS_ServoTest
 
-![Servo motore immagine] (https://arduinoproject.altervista.org/wp-content/uploads/2020/04/Servo-Motor_Internal.jpg)
+![Servo motore immagine](https://arduinoproject.altervista.org/wp-content/uploads/2020/04/Servo-Motor_Internal.jpg)
 
 ## Un servomotore è un particolare tipo di motore, generalmente di piccola potenza, che si differenzia dai motori tradizionali. Quello da noi utilizzato ha un'ampiezza di 180°.
 
 ## Il servomotore viene alimentato con un tensione di 5V e per essere pilotato è collegato a un pin(PE11) della scheda STM32L476VGTX che genera un segale PVM.
 
 ## Schema elettrico:
-![Immagine schema elettrico] (https://arduinoproject.altervista.org/wp-content/uploads/2020/04/SG90-Pin-Definition-480x318.png)
+![Immagine schema elettrico](https://arduinoproject.altervista.org/wp-content/uploads/2020/04/SG90-Pin-Definition-480x318.png)
 
-![Immagine del duty cicle] (https://arduinoproject.altervista.org/wp-content/uploads/2020/04/Servo_Pulse_Control.png)
+![Immagine del duty cicle](https://arduinoproject.altervista.org/wp-content/uploads/2020/04/Servo_Pulse_Control.png)
 
 ## Schema montaggio: 
 Abbiamo collegato il servomotore al pin PE11 del microcontrollore, oltre che a massa(GND) e all'alimetazione(VCC=5V).
