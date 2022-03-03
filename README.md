@@ -2,9 +2,8 @@
 
 ![Servo motore immagine](https://arduinoproject.altervista.org/wp-content/uploads/2020/04/Servo-Motor_Internal.jpg)
 
-## Un servomotore è un particolare tipo di motore, generalmente di piccola potenza, che si differenzia dai motori tradizionali. Quello da noi utilizzato ha un'ampiezza di 180°.
-
-## Il servomotore viene alimentato con un tensione di 5V e per essere pilotato è collegato a un pin(PE11) della scheda STM32L476VGTX che genera un segale PVM.
+Un servomotore è un particolare tipo di motore, generalmente di piccola potenza, che si differenzia dai motori tradizionali. Quello da noi utilizzato ha un'ampiezza di 180°.
+Il servomotore viene alimentato con un tensione di 5V e per essere pilotato è collegato a un pin(PE11) della scheda STM32L476VGTX che genera un segale PVM.
 
 ## Schema elettrico:
 ![Immagine schema elettrico](https://arduinoproject.altervista.org/wp-content/uploads/2020/04/SG90-Pin-Definition-480x318.png)
