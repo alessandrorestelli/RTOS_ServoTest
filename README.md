@@ -7,8 +7,9 @@ Il servomotore viene alimentato con un tensione di 5V e per essere pilotato è c
 
 ## Schema elettrico:
 Nell'immagine che segue si potrà vedere lo schema elettrico del servomotore:
-![Immagine schema elettrico](https://drive.google.com/file/d/1hMY9mWAm7DweGn0vpcMGz1F4KKZIh3mc/view?usp=sharing)
+![Immagine schema elettrico](https://github.com/alessandrorestelli/RTOS_ServoTest/blob/main/Schema%20elettrico%20servo.PNG)
 
+## Duty cycle:
 Nell'immagine che segue si potrà vedere il duty cycle del servomotore, ovvero il rapporto tra il tempo durante il quale un carico o un circuito è attivo (ON) e il tempo durante il quale è inattivo (OFF):
 ![Immagine del duty cicle](https://arduinoproject.altervista.org/wp-content/uploads/2020/04/Servo_Pulse_Control.png)
 
