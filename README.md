@@ -6,9 +6,10 @@ Un servomotore è un particolare tipo di motore, generalmente di piccola potenza
 Il servomotore viene alimentato con un tensione di 5V e per essere pilotato è collegato a un pin(PE11) della scheda STM32L476VGTX che genera un segale PVM.
 
 ## Schema elettrico:
-Nell'imagine che segue si potrà vedere lo schema elettrico del servomotore
-![Immagine schema elettrico]()
+Nell'immagine che segue si potrà vedere lo schema elettrico del servomotore:
+![Immagine schema elettrico](https://drive.google.com/file/d/1hMY9mWAm7DweGn0vpcMGz1F4KKZIh3mc/view?usp=sharing)
 
+Nell'immagine che segue si potrà vedere il duty cycle del servomotore, ovvero il rapporto tra il tempo durante il quale un carico o un circuito è attivo (ON) e il tempo durante il quale è inattivo (OFF):
 ![Immagine del duty cicle](https://arduinoproject.altervista.org/wp-content/uploads/2020/04/Servo_Pulse_Control.png)
 
 ## Schema di montaggio: 
