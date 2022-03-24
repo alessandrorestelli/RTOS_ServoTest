@@ -8,6 +8,7 @@ Il servomotore viene alimentato con un tensione di 5V e per essere pilotato è c
 ## Schema elettrico:
 Nell'immagine che segue si potrà vedere lo schema elettrico del servomotore:
 ![Immagine schema elettrico](https://github.com/alessandrorestelli/RTOS_ServoTest/blob/main/Schema%20elettrico%20servo.PNG)
+
 Il servomotre presenta 3 ingressi: uno per l'alimentazione, uno per il collegamento alla messa a terra e uno collegato al pin della scheda per ricevere il seganle che gli permetterà di muoversi.
 
 ## Duty cycle:
